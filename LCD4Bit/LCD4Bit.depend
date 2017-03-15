@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1489581518 source:d:\github\winavr\lcd4bit\avrlcd.c
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<util/delay.h>
+	"lcd_lib.h"
+
+1334925458 d:\github\winavr\lcd4bit\lcd_lib.h
+	<inttypes.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489584101 source:d:\github\winavr\led_blink\fuse.c
+	<avr/io.h>
+
+1489584134 source:d:\github\winavr\led_blink\main.c
+	<avr/io.h>
+
